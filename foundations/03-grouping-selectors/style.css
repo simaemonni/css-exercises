@@ -1,0 +1,13 @@
+.firstb, .secondb {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'san-serif';
+}
+
+.firstb {
+    background-color: black;
+    color: white;
+}
+
+.secondb {
+    background-color: yellow;
+}
